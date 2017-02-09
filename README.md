@@ -1,2 +1,3 @@
-# react-component-playground
-react component playground
+# React Component Playground Component
+
+React Component Playground Component
